@@ -13,7 +13,9 @@ At the moment here you can see the algorithms from the list below.
 4)SegmentTree_Pointers(build, query, group_update)
 
 //============\\
+
 ||=RomanovAlex=||
+
 \\============//
 
 ok
